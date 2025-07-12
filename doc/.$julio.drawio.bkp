@@ -1603,9 +1603,6 @@
         <mxCell id="nTVakqiVCQNtzWDpxAa0-20" value="server web:&lt;div&gt;nginx / iis/ apache&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1650" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nO064umdsx2hg7iLCF_9-1" value="lib" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1020" width="50" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
